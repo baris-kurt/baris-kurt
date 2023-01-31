@@ -10,7 +10,7 @@ I developed lots of projects for desktop, web, and mobile (especially Rockstar G
 
 The most important skills of me: having a sharp eye for detail, fast learning and code optimization. I have been making games and prototypes with C# in Unity for over 2 years now. I also have knowledge of networking and hardware which has developed throughout the years. In addition to that, I'm quite interested in design and care about the visuality of my projects.
 </br></br>
-## my latest works
+## personal works
 - [TAVOOK](https://www.youtube.com/watch?v=aSoeugy7Nrs): TAVOOK is a game where you keep the board balanced to save falling "tavooks".
 - [Chase Them All](https://www.youtube.com/watch?v=Ud2waXZdPko): You need to catch all suspects, avoid civilians and make justice.
 - [Untitled Traffic Cam Project](https://www.youtube.com/watch?v=EN2O8EKSm-U): You play as a Traffic Enforcement System and your duty is detect, release and fine the guilties.
